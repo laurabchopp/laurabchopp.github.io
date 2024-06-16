@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-[Curriculum Vitae (CV)](https://ralobos.github.io/files/CV_RLOBOS_OCT_2023.pdf)
+[Curriculum Vitae (CV)](https://laurabchopp.github.io/files/ChoppCV_Summer2024.pdf)
 
-I'm a postdoctoral researcher working under the guidance of Prof. Jeffrey Fessler, Prof. Douglas Noll, and Prof. Zhongming Liu at the University of Michigan. I completed my PhD studies at the University of Southern California working under the supervision of Prof. Justin Haldar.  My research interests include signal and image processing, magnetic resonance imaging (MRI), computational imaging, inverse problems, and the connections between machine learning and constrained image reconstruction.
+I am a physician-scientist in training at the University of Michigan, currently in medical school. I did my PhD training under the direction of Dr. Rémy Bosselut in the joint University of Pennsylvania-National Institutes of Health immunology PhD program. My PhD research focused on unraveling the developmental and functional control of a type of immune cell called T lymphocytes. During my medical training I am working as a bioinformatics consultant for Dr. Johann Gudjonsson in the Dermatology Department at the University of Michigan. 
