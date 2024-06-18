@@ -31,6 +31,8 @@ author_profile: true
 
 *  Amir M, Chaudhari S, Wang R, Campbell S, Mosure SA, <b>Chopp LB</b>, Lu Q, Shang J, Pelletier OB, He Y, Doebelin C, Cameron MD, Kojetin DJ, Kamenecka TM, Solt LA.  <br>[REV-ERBα regulates TH17 cell development and autoimmunity](https://www.cell.com/cell-reports/pdf/S2211-1247(18)31907-7.pdf)<br><em> Cell Reports 25(13):3733-3749, 2018</em>.
 
+*  Carpenter AC, Wohlfert E, <b>Chopp LB</b>, Vacchio MS, Nie J, Zhao Y, Shetty J, Xiao Q, Deng C, Tran B, Cam M, Gaida MM, Belkaid Y, Bosselut R. <br>[Control of Regulatory T Cell Differentiation by the Transcription Factors Thpok and LRF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5576567/)<br><em> The Journal of Immunology 199(5):1716-1728, 2017</em>.
+
 <b>Book Chapters</b>
 ======
 *   Georgiev H, <b>Chopp LB</b>, Hogquist KA.  <br>[Ultrasound-Guided Intra-thymic Cell Injection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9847244/)<br><em> T-Cell Development: Methods and Protocols p283-292, 2023</em>.
