@@ -26,5 +26,5 @@ author_profile: true
 ======
 *   Georgiev H, <b>Chopp LB</b>, Hogquist KA.  <br>[Ultrasound-Guided Intra-thymic Cell Injection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9847244/)<br><em> T-Cell Development: Methods and Protocols p283-292, 2023</em>.
 
-*   AC Carpenter, <b>LB Chopp</b>, JK Kim, R Bosselut.  <br>[Purification of thymocyte and T cell subsets](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10802931/)<br><em> T-Cell Development: Methods and Protocols p151-163, 2023</em>.
+*  Carpenter AC, <b>Chopp LB</b>, Kim JK, Bosselut R.  <br>[Purification of thymocyte and T cell subsets](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10802931/)<br><em> T-Cell Development: Methods and Protocols p151-163, 2023</em>.
 
