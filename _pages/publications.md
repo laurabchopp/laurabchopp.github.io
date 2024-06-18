@@ -11,8 +11,10 @@ author_profile: true
 
 <b>Journal</b>
 ======
-*  <b>L. B. Chopp</b>, X. Zhu, Y. Gao, J. Nie, J. Singh, P. Kumar, K.Z. Young, S. Patel, C. Li, M. Balmaceno-Criss, M.S. Vacchio, M.M. Wang, F. Livak, J.L. Merchant, L. Wang, M.C. Kelly, J. Zhu, R. Bosselut.  <br>[Zfp281 and Zfp148 control CD4+ T cell thymic development and TH2 functions](https://www.science.org/doi/abs/10.1126/sciimmunol.adi9066)<br><em> Science Immunology 8(89), 2023</em>.
+*  <b>Chopp. LB</b>, Zhu X,  Gao Y, Nie J, Singh J, Kumar P, Young KZ, Patel S, Li C, Balmaceno-Criss M, Vacchio MS, Wang MM, Livak F,  Merchant JL, Wang L, Kelly MC, Zhu J, Bosselut R.  <br>[Zfp281 and Zfp148 control CD4+ T cell thymic development and TH2 functions](https://www.science.org/doi/abs/10.1126/sciimmunol.adi9066)<br><em> Science Immunology 8(89), 2023</em>.
 
-*  <b>L. B. Chopp</b>, V. Gopalan, T. Ciucci, A. Ruchinskas, Z. Rae, M. LaGarde, Y. Gao, C. Li, M. Bosticardo, F. Pala, F. Livak, M. C. Kelly, S. Hannenhalli, R. Bosselut.  <br>[An integrated epigenomic and transcriptomic map of mouse and human αβ T cell development](https://www.cell.com/immunity/pdf/S1074-7613(20)30465-9.pdf)<br><em> Immunity 53(6):1182-1201, 2020</em>.
+*  <b>Chopp LB</b>, Gopalan V, Ciucci T, Ruchinskas A, Rae Z, LaGarde M, Gao Y, Li C, Bosticardo M, Pala F, Livak F, Kelly MC, Hannenhalli S, Bosselut R.  <br>[An integrated epigenomic and transcriptomic map of mouse and human αβ T cell development](https://www.cell.com/immunity/pdf/S1074-7613(20)30465-9.pdf)<br><em> Immunity 53(6):1182-1201, 2020</em>.
 
 *  <b>L. B. Chopp</b>, C. Redmond, J.J. O'Shea, D.M. Schwartz.  <br>[From thymus to tissues and tumors: a review of T-cell biology](https://www.sciencedirect.com/science/article/abs/pii/S0091674922013781)<br><em> Journal of Allergy and Clinical Immunology 151(1):81-97, 2023</em>.
+
+*  Gao Y, Wang Y, Chauss D, Villarino AV, Link VM, Nagashima H, Spinner CA, Koparde VN, Bouladoux N, Abers MS, Break TJ, <b>Chopp LB</b>, Park JH, Zhu J, Wiest DL, Leonard WJ, Lionakis MS, O'Shea JJ, Afzali B, Belkaid Y, Lazarevic V.  <br>[From thymus to tissues and tumors: a review of T-cell biology](https://www.sciencedirect.com/science/article/abs/pii/S0091674922013781)<br><em> Journal of Allergy and Clinical Immunology 151(1):81-97, 2023</em>.
