@@ -27,6 +27,8 @@ author_profile: true
 
 *  Ciucci T, Vacchio MS, Chen T, Nie J, <b>Chopp LB</b>, McGavern DB, Kelly MC, Bosselut R. <br>[Dependence on Bcl6 and Blimp1 drive distinct differentiation of murine memory and follicular helper CD4+ T cells](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8605495/)<br><em> Journal of Experimental Medicine 219(1), 2021</em>.
 
+*  Stamos DB, Clubb LM, Mitra A, <b>Chopp LB</b>, Nie J, Ding Y, Das A, Venkataganesh H, Lee J, El-Khoury D, Li L, Bhandoola A, Bosselut R, Love PE. <br>[The histone demethylase Lsd1 regulates multiple repressive gene programs during T cell development](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8570297/)<br><em> Journal of Experimental Medicine 218(12), 2021</em>.
+
 *  Amir M, Chaudhari S, Wang R, Campbell S, Mosure SA, <b>Chopp LB</b>, Lu Q, Shang J, Pelletier OB, He Y, Doebelin C, Cameron MD, Kojetin DJ, Kamenecka TM, Solt LA.  <br>[REV-ERBα regulates TH17 cell development and autoimmunity](https://www.cell.com/cell-reports/pdf/S2211-1247(18)31907-7.pdf)<br><em> Cell Reports 25(13):3733-3749, 2018</em>.
 
 <b>Book Chapters</b>
