@@ -33,9 +33,13 @@ author_profile: true
 
 *  Carpenter AC, Wohlfert E, <b>Chopp LB</b>, Vacchio MS, Nie J, Zhao Y, Shetty J, Xiao Q, Deng C, Tran B, Cam M, Gaida MM, Belkaid Y, Bosselut R. <br>[Control of Regulatory T Cell Differentiation by the Transcription Factors Thpok and LRF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5576567/)<br><em> The Journal of Immunology 199(5):1716-1728, 2017</em>.
 
+*   Reed BK#, <b>Chopp LB#</b>, Malo CS, Renner DN, Van Keulen VS, Girtman MA, Nevala WN, Pavelko KD, Gil D, Schrum AG, Johnson AJ, Pease LR. <br>[A versatile simple capture assay for assessing the structural integrity of MHC multimer reagents](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4577079/)<br><em> PLoS One 10(9), 2015. 
+
 <b>Book Chapters</b>
 ======
 *   Georgiev H, <b>Chopp LB</b>, Hogquist KA.  <br>[Ultrasound-Guided Intra-thymic Cell Injection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9847244/)<br><em> T-Cell Development: Methods and Protocols p283-292, 2023</em>.
 
 *  Carpenter AC, <b>Chopp LB</b>, Kim JK, Bosselut R.  <br>[Purification of thymocyte and T cell subsets](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10802931/)<br><em> T-Cell Development: Methods and Protocols p151-163, 2023</em>.
+
+  
 
