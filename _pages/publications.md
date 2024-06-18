@@ -19,6 +19,7 @@ author_profile: true
 
 *  Gao Y, Wang Y, Chauss D, Villarino AV, Link VM, Nagashima H, Spinner CA, Koparde VN, Bouladoux N, Abers MS, Break TJ, <b>Chopp LB</b>, Park JH, Zhu J, Wiest DL, Leonard WJ, Lionakis MS, O'Shea JJ, Afzali B, Belkaid Y, Lazarevic V.  <br>[Transcription factor EGR2 controls homing and pathogenicity of TH17 cells in the central nervous system](https://www.nature.com/articles/s41590-023-01553-7)<br><em> Nature Immunology 24(8):1331-1344, 2023</em>.
 
+*  Zhao Y, Vartak SV, Conte A, Wang X, Garcia DA, Stevens E, Kyoung Jung S, Kieffer-Kwon KR, Vian L, Stodola T, Moris F, <b>Chopp L</b>, Preite S, Schwartzberg PL, Kulinski JM, Olivera A, Harly C, Bhandoola A, Heuston EF, Bodine DM, Urrutia R, Upadhyaya A, Weirauch MT, Hager G, Casellas R.  <br>[“Stripe” transcription factors provide accessibility to co-binding partners in mammalian genomes](https://pubmed.ncbi.nlm.nih.gov/35863348/)<br><em> Molecular Cell 82(18):3398-3411, 2022</em>.
 
 *  Amir M, Chaudhari S, Wang R, Campbell S, Mosure SA, <b>Chopp LB</b>, Lu Q, Shang J, Pelletier OB, He Y, Doebelin C, Cameron MD, Kojetin DJ, Kamenecka TM, Solt LA.  <br>[REV-ERBα regulates TH17 cell development and autoimmunity](https://www.cell.com/cell-reports/pdf/S2211-1247(18)31907-7.pdf)<br><em> Cell Reports 25(13):3733-3749, 2018</em>.
 
