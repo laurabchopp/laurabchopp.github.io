@@ -15,3 +15,4 @@ author_profile: true
 
 *  <b>L. B. Chopp</b>, V. Gopalan, T. Ciucci, A. Ruchinskas, Z. Rae, M. LaGarde, Y. Gao, C. Li, M. Bosticardo, F. Pala, F. Livak, M. C. Kelly, S. Hannenhalli, R. Bosselut.  <br>[An integrated epigenomic and transcriptomic map of mouse and human αβ T cell development](https://www.cell.com/immunity/pdf/S1074-7613(20)30465-9.pdf)<br><em> Immunity 53(6):1182-1201, 2020</em>.
 
+*  <b>L. B. Chopp</b>, C. Redmond, J.J. O'Shea, D.M. Schwartz.  <br>[From thymus to tissues and tumors: a review of T-cell biology](https://www.sciencedirect.com/science/article/abs/pii/S0091674922013781)<br><em> Journal of Allergy and Clinical Immunology 151(1):81-97, 2023</em>.
