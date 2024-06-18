@@ -21,6 +21,8 @@ author_profile: true
 
 *  Zhao Y, Vartak SV, Conte A, Wang X, Garcia DA, Stevens E, Kyoung Jung S, Kieffer-Kwon KR, Vian L, Stodola T, Moris F, <b>Chopp L</b>, Preite S, Schwartzberg PL, Kulinski JM, Olivera A, Harly C, Bhandoola A, Heuston EF, Bodine DM, Urrutia R, Upadhyaya A, Weirauch MT, Hager G, Casellas R.  <br>[“Stripe” transcription factors provide accessibility to co-binding partners in mammalian genomes](https://pubmed.ncbi.nlm.nih.gov/35863348/)<br><em> Molecular Cell 82(18):3398-3411, 2022</em>.
 
+*  Gao Y, Zamisch M, Vacchio M, <b>Chopp L</b>, Ciucci T, Paine EL, Lyons GC, Nie J, Xiao Q, Zvezdova E, Love PE, Vinson CR, Jenkins LM, Bosselut R.  <br>[NuRD complex recruitment to Thpok mediates CD4+ T cell lineage differentiation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9484726/)<br><em> Science Immunology 7(72), 2022</em>.
+
 *  Amir M, Chaudhari S, Wang R, Campbell S, Mosure SA, <b>Chopp LB</b>, Lu Q, Shang J, Pelletier OB, He Y, Doebelin C, Cameron MD, Kojetin DJ, Kamenecka TM, Solt LA.  <br>[REV-ERBα regulates TH17 cell development and autoimmunity](https://www.cell.com/cell-reports/pdf/S2211-1247(18)31907-7.pdf)<br><em> Cell Reports 25(13):3733-3749, 2018</em>.
 
 <b>Book Chapters</b>
