@@ -23,6 +23,8 @@ author_profile: true
 
 *  Gao Y, Zamisch M, Vacchio M, <b>Chopp L</b>, Ciucci T, Paine EL, Lyons GC, Nie J, Xiao Q, Zvezdova E, Love PE, Vinson CR, Jenkins LM, Bosselut R.  <br>[NuRD complex recruitment to Thpok mediates CD4+ T cell lineage differentiation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9484726/)<br><em> Science Immunology 7(72), 2022</em>.
 
+*  Nie J, Carpenter AC, <b>Chopp LB</b>, Chen T, Balmaceno-Criss M, Ciucci T, Xiao Q, Kelly MC, McGavern DB, Belkaid Y, Bosselut R. <br>[The transcription factor LRF promotes Integrin beta 7 expression by and gut homing of CD8aa intraepithelial lymphocyte precursors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9290758/)<br><em> Nature Immunology 23(4):594-604, 2022</em>.
+
 *  Amir M, Chaudhari S, Wang R, Campbell S, Mosure SA, <b>Chopp LB</b>, Lu Q, Shang J, Pelletier OB, He Y, Doebelin C, Cameron MD, Kojetin DJ, Kamenecka TM, Solt LA.  <br>[REV-ERBα regulates TH17 cell development and autoimmunity](https://www.cell.com/cell-reports/pdf/S2211-1247(18)31907-7.pdf)<br><em> Cell Reports 25(13):3733-3749, 2018</em>.
 
 <b>Book Chapters</b>
