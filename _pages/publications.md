@@ -22,7 +22,9 @@ author_profile: true
 
 *  Amir M, Chaudhari S, Wang R, Campbell S, Mosure SA, <b>Chopp LB</b>, Lu Q, Shang J, Pelletier OB, He Y, Doebelin C, Cameron MD, Kojetin DJ, Kamenecka TM, Solt LA.  <br>[REV-ERBα regulates TH17 cell development and autoimmunity](https://www.cell.com/cell-reports/pdf/S2211-1247(18)31907-7.pdf)<br><em> Cell Reports 25(13):3733-3749, 2018</em>.
 
-<b>Book</b>
+<b>Book Chapters</b>
 ======
-*   Georgiev H, <b>Chopp LB</b>, Hogquist KA.  <br>[Ultrasound-Guided Intra-thymic Cell Injection](https://link.springer.com/protocol/10.1007/978-1-0716-2740-2_17)<br><em> T-Cell Development: Methods and Protocols p283-292, 2022</em>.
+*   Georgiev H, <b>Chopp LB</b>, Hogquist KA.  <br>[Ultrasound-Guided Intra-thymic Cell Injection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9847244/)<br><em> T-Cell Development: Methods and Protocols p283-292, 2023</em>.
+
+*   AC Carpenter, <b>LB Chopp</b>, JK Kim, R Bosselut.  <br>[Purification of thymocyte and T cell subsets](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10802931/)<br><em> T-Cell Development: Methods and Protocols p151-163, 2023</em>.
 
